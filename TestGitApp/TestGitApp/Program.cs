@@ -8,6 +8,7 @@ namespace TestGitApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Bug");
+            int a = 19;
         }
     }
 }
