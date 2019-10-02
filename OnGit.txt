@@ -3,8 +3,7 @@ Other Line
 AAA
 ABC
 Fetch For Ipad
-Fetch For Ipad
 BBB
 CCC
-CCC
 11234
+Test Pull For Ipad
